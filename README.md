@@ -1,7 +1,7 @@
 # Mini loja 1.0
 
 
-> see the project : 
+> see the project : https://vtkaue.github.io/Mini-Loja1.0/
 
 <br>
 
