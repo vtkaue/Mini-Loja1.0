@@ -1,8 +1,7 @@
 # Mini loja 1.0
-
+<br>
 
 > see the project : https://vtkaue.github.io/Mini-Loja1.0/
-
 <br>
 
 ## :dart: About ##
